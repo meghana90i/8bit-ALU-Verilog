@@ -17,11 +17,11 @@ This project implements an 8-Bit Arithmetic Logic Unit (ALU) using Verilog HDL. 
 
 ## Project Structure
 
-8bit_ALU/
-├── alu_8bit.v
-├── testbench.v
-├── waveform.png
-└── README.md
+- 8bit_ALU/
+- ├── alu_8bit.v
+- ├── testbench.v
+- ├── waveform.png
+- └── README.md
 
 ## Operations
 
@@ -53,5 +53,5 @@ The ALU was successfully simulated and verified. All arithmetic and logical oper
 
 ## Author
 
-Meghana Peddinti
-B.Tech - Electronics and Communication Engineering
+- Meghana Peddinti
+- B.Tech - Electronics and Communication Engineering
